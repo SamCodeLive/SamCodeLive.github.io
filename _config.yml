@@ -1,6 +1,6 @@
 # Site settings
 title: Sam Richard
-SEOTitle: 你的博客 | Your Blog
+SEOTitle: 你的博客 | Sam Richard
 header-img: img/home-bg.jpg
 email: pirate@163.net
 description: ""
@@ -13,8 +13,8 @@ baseurl: ""
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     Sam Richard
+weibo_username:     samrichard
+zhihu_username:     sam-richard
 github_username:    SamCodeLive
 #twitter_username:  huxpro
 facebook_username:  sam.richard.7355
