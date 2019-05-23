@@ -1,11 +1,11 @@
 # Site settings
-title: Your Blog
+title: Sam Richard
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: pirate@163.net
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "http://samrichard.cn"              # your host, for absolute URL
 baseurl: ""
 #baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -14,10 +14,10 @@ baseurl: ""
 # SNS settings
 RSS: false
 weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+zhihu_username:     Sam Richard
+github_username:    SamCodeLive
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  sam.richard.7355
 
 
 
@@ -86,8 +86,8 @@ friends: [
         title: "Hux Blog",
         href: "http://huangxuan.me"
     },{
-        title: "Foo",
-        href: "#"
+        title: "Lao Tou",
+        href: "https://www.laomoit.com/"
     },{
         title: "Bar",
         href: "#"
