@@ -9,6 +9,7 @@ tags:
     - OS
     - Unix
     - Linux
+	- C++
 ---
 
 > This document is not completed and will be updated anytime.
