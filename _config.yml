@@ -1,6 +1,6 @@
 # Site settings
 title: Sam Richard
-SEOTitle: 你的博客 | Sam Richard
+SEOTitle: 沈春钟的博客 | Sam Richard
 header-img: img/home-bg.jpg
 email: pirate@163.net
 description: ""
@@ -14,7 +14,7 @@ baseurl: ""
 # SNS settings
 RSS: false
 weibo_username:     samrichard
-zhihu_username:     sam-richard
+#zhihu_username:     sam-richard
 github_username:    SamCodeLive
 #twitter_username:  huxpro
 facebook_username:  sam.richard.7355
@@ -63,14 +63,14 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: samrichard.cn
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "有时，一本倾心的书和一杯怡情的coffee，足以让我静静享受一天的美好时光。"
+sidebar-avatar: /img/avatar-scz.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
